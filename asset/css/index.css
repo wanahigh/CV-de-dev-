@@ -1,0 +1,14 @@
+*{
+    border:1px solid red;
+}
+
+#photo{
+    background-color:lawngreen;
+    height:40px;
+}
+
+#motiv
+{
+    background-color:deepskyblue;
+    height:40px;
+}
