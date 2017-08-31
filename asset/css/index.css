@@ -1,14 +1,44 @@
-*{
-    border:1px solid red;
-}
 
 #photo{
     background-color:lawngreen;
-    height:40px;
+
 }
 
 #motiv
 {
     background-color:deepskyblue;
-    height:40px;
+
 }
+
+img{
+    flex-direction: row;
+    display: block;
+    margin: 25%;
+}
+
+
+.container .row {
+    margin-top:-2%;
+
+}
+body{
+    margin:20px;
+
+}
+
+.z-depth-5{
+    text-align: center;
+    color:white;
+    font-family: "Droid Sans";
+    font-size: larger;
+}
+body {
+    font-family: 'Ubuntu', sans-serif;
+    width:960px;
+}
+
+p{
+    color:#525252;
+    font-size:12px;
+}
+
